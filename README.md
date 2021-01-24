@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+I'm a fledgling grad student in data science, powered by coffee.
